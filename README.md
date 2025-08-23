@@ -19,7 +19,7 @@ I'm a fullstack software developer. I consider myself as a highly motivated deve
 
 <br>
 
-##
+<!--##
 <br>
 <div align="center">
 
@@ -62,21 +62,16 @@ I'm a fullstack software developer. I consider myself as a highly motivated deve
     </a>  
   </div>
 
-</div>
+</div>/>-->
 
-##
-<br>
-
-<p align="center">
+<!--<p align="center">
   <img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alejandroacho&hide=html,php,css,blade" alt="Alejandro Acho's stats"/>
-</p>
+</p>/>-->
 <!--  <p align="center"> 
   <img src=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alejandroacho&theme=nightowl&langs_count=7&hide=html,php,css,blade alt="Alejandro Acho's stats"/>
 </p> />-->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Alejandroacho&color=blueviolet" alt="Profile views" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Alejandroacho&color=blueviolet" alt="Profile views" /> </p>/>-->
 
-
-##
 <!-- 
 <p align="center" style="background:blue">
   <a href="https://alejandroacho.com" target="_blank">
